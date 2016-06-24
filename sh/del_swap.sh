@@ -1,5 +1,5 @@
 #!/bin/bash
-#-------------CopyRight-------------
+#--------------------------
 #   Name:create swap
 #   Date:2016-06-16
 #   Author:tanbo
